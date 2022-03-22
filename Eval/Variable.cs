@@ -1,4 +1,4 @@
-namespace Parser.Eval
+namespace Lambda.Eval
 {
     public class Variable
     {

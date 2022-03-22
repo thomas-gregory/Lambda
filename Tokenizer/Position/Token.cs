@@ -1,4 +1,4 @@
-namespace Parser.Tokenizers.Position
+namespace Lambda.Tokenizers.Position
 {
     public class Token : IPosition
     {

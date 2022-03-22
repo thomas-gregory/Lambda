@@ -1,4 +1,4 @@
-namespace Parser.Tokenizers
+namespace Lambda.Tokenizers
 {
     public class LookaheadReader : Lookahead<Position.CharPosition>, IDisposable
     {

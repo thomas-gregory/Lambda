@@ -1,4 +1,4 @@
-namespace Parser.Eval.Expressions
+namespace Lambda.Eval.Expressions
 {
     public abstract class Expression : IEquatable<Expression>
     {

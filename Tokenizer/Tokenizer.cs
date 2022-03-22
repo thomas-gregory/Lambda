@@ -1,6 +1,6 @@
-using Parser.Tokenizers.Position;
+using Lambda.Tokenizers.Position;
 
-namespace Parser.Tokenizers
+namespace Lambda.Tokenizers
 {
     public class Tokenizer : Lookahead<Token>
     {

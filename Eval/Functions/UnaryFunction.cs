@@ -1,4 +1,4 @@
-namespace Parser.Eval.Functions
+namespace Lambda.Eval.Functions
 {
     public class UnaryFunction : Function
     {

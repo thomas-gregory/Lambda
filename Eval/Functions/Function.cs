@@ -1,4 +1,4 @@
-namespace Parser.Eval.Functions
+namespace Lambda.Eval.Functions
 {
     public abstract class Function
     {

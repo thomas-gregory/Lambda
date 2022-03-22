@@ -1,4 +1,4 @@
-namespace Parser.Tokenizers
+namespace Lambda.Tokenizers
 {
     public abstract class Lookahead<T>
     {

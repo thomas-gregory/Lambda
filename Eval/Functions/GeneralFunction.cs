@@ -1,6 +1,6 @@
-using Parser.Eval.Expressions;
+using Lambda.Eval.Expressions;
 
-namespace Parser.Eval.Functions
+namespace Lambda.Eval.Functions
 {
     public class GeneralFunction : Function
     {

@@ -1,6 +1,6 @@
-using Parser.Eval.Functions;
+using Lambda.Eval.Functions;
 
-namespace Parser.Eval
+namespace Lambda.Eval
 {
     public class Scope
     {

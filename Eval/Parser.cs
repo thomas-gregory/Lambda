@@ -1,9 +1,9 @@
-using Parser.Tokenizers;
-using Parser.Tokenizers.Position;
-using Parser.Eval.Functions;
-using Parser.Eval.Expressions;
+using Lambda.Tokenizers;
+using Lambda.Tokenizers.Position;
+using Lambda.Eval.Functions;
+using Lambda.Eval.Expressions;
 
-namespace Parser.Eval
+namespace Lambda.Eval
 {
     public class Parser
     {
